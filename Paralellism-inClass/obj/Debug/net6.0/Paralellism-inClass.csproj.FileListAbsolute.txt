@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\Paralellism-inClass\Paralellism-inClass\bin\Debug\net6.0\Paralellism-inClass.exe
+C:\Users\99455\source\repos\Paralellism-inClass\Paralellism-inClass\bin\Debug\net6.0\Paralellism-inClass.deps.json
+C:\Users\99455\source\repos\Paralellism-inClass\Paralellism-inClass\bin\Debug\net6.0\Paralellism-inClass.runtimeconfig.json
+C:\Users\99455\source\repos\Paralellism-inClass\Paralellism-inClass\bin\Debug\net6.0\Paralellism-inClass.dll
+C:\Users\99455\source\repos\Paralellism-inClass\Paralellism-inClass\bin\Debug\net6.0\Paralellism-inClass.pdb
+C:\Users\99455\source\repos\Paralellism-inClass\Paralellism-inClass\obj\Debug\net6.0\Paralellism-inClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\Paralellism-inClass\Paralellism-inClass\obj\Debug\net6.0\Paralellism-inClass.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\Paralellism-inClass\Paralellism-inClass\obj\Debug\net6.0\Paralellism-inClass.AssemblyInfo.cs
+C:\Users\99455\source\repos\Paralellism-inClass\Paralellism-inClass\obj\Debug\net6.0\Paralellism-inClass.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\Paralellism-inClass\Paralellism-inClass\obj\Debug\net6.0\Paralellism-inClass.dll
+C:\Users\99455\source\repos\Paralellism-inClass\Paralellism-inClass\obj\Debug\net6.0\refint\Paralellism-inClass.dll
+C:\Users\99455\source\repos\Paralellism-inClass\Paralellism-inClass\obj\Debug\net6.0\Paralellism-inClass.pdb
+C:\Users\99455\source\repos\Paralellism-inClass\Paralellism-inClass\obj\Debug\net6.0\Paralellism-inClass.genruntimeconfig.cache
+C:\Users\99455\source\repos\Paralellism-inClass\Paralellism-inClass\obj\Debug\net6.0\ref\Paralellism-inClass.dll

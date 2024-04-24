@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\Paralellism-inClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAE3769-3F83-4CA4-B48A-F1D477B6BCEB}|Paralellism-inClass\\Paralellism-inClass.csproj|c:\\users\\99455\\source\\repos\\paralellism-inclass\\paralellism-inclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAE3769-3F83-4CA4-B48A-F1D477B6BCEB}|Paralellism-inClass\\Paralellism-inClass.csproj|solutionrelative:paralellism-inclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Paralellism-inClass\\Paralellism-inClass\\Program.cs",
+              "RelativeDocumentMoniker": "Paralellism-inClass\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Paralellism-inClass\\Paralellism-inClass\\Program.cs",
+              "RelativeToolTip": "Paralellism-inClass\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:03:41.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
